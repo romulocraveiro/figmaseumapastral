@@ -16,7 +16,7 @@
 * Problema: aparentemente, com o Figma, não é possível criar um link numa página mobile para "voltar ao topo". Solução: fiz uma cópia do mesmo <i>frame</i> e daí consegui ligar o botão "Topo".
 * <i>Problem: it is apparently not possible to create a link on a mobile page with Figma to "go back to the top". Solution: I made a copy of the same frame and then managed to link it to the "Top" button</i> 
 
-## Tecnologias
+## Tecnologias / Technologies
 
 * Figma
 
@@ -26,7 +26,7 @@
 * [FIGMA prototyping tool](https://www.figma.com/); 
 
 
-## Autor
+## Autor / Author
 
 | Foto                                       | Nome        | GitHub                                         | Likedin                                                 | E-mail                |
 | ------------------------------------------ | ----------- | ---------------------------------------------- | ------------------------------------------------------- | --------------------- |
