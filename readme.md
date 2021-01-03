@@ -8,8 +8,8 @@
 
 ## Objetivos / Aims
 
-* Demonstrar ser capaz de criar um aplicativo utilizando a ferramenta tecnotógica Figma para obter aprovação na disciplina Interação Humano-Computador do curso Técnico em Desenvolvimento de Sistemas SENAI CIMATEC, professora Naiara da Encarnação Neves.
-* <i>To demonstrate the ability to create an application by using the technological tool Figma pass the discipline Human-Computer Interaction at the System Development Technical course at SENAI CIMATEC, professor Naiara da Encarnação Neves</i>
+* Demonstrar ser capaz de criar um aplicativo utilizando a ferramenta tecnológica Figma para obter aprovação na disciplina Interação Humano-Computador do curso Técnico em Desenvolvimento de Sistemas SENAI CIMATEC. Professora: Naiara da Encarnação Neves.
+* <i>To demonstrate the ability to create an application by using the technological tool Figma, to pass the discipline Human-Computer Interaction at the System Development Technical course at SENAI CIMATEC. Professor: Naiara da Encarnação Neves</i>
 
 ## Um problema que consegui resolver / A problem I was able to solve
 
