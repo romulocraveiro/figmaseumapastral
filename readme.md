@@ -9,12 +9,12 @@
 ## Objetivos / Aims
 
 * Demonstrar ser capaz de criar um aplicativo utilizando a ferramenta tecnológica Figma para obter aprovação na disciplina Interação Humano-Computador do curso Técnico em Desenvolvimento de Sistemas SENAI CIMATEC. Professora: Naiara da Encarnação Neves.
-* <i>To demonstrate the ability to create an application by using the technological tool Figma, to pass the discipline Human-Computer Interaction at the System Development Technical course at SENAI CIMATEC. Professor: Naiara da Encarnação Neves</i>
+* <i>To demonstrate the ability to create an application by using the technological tool Figma, to pass the discipline Human-Computer Interaction at the System Development Technical course at SENAI CIMATEC. Professor: Naiara da Encarnação Neves.</i>
 
 ## Um problema que consegui resolver / A problem I was able to solve
 
 * Problema: aparentemente, com o Figma, não é possível criar um link numa página mobile para "voltar ao topo". Solução: fiz uma cópia do mesmo <i>frame</i> e daí consegui ligar o botão "Topo".
-* <i>Problem: it is apparently not possible to create a link on a mobile page with Figma to "go back to the top". Solution: I made a copy of the same frame and then managed to link it to the "Top" button</i> 
+* <i>Problem: it is apparently not possible to create a link on a mobile page with Figma to "go back to the top". Solution: I made a copy of the same frame and then managed to link it to the "Top" button.</i> 
 
 ## Tecnologias / Technologies
 
